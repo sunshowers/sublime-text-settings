@@ -1,0 +1,9 @@
+{
+	"auto_upgrade_last_run": 1329910693,
+	"installed_packages":
+	[
+		"NSIS",
+		"Package Control",
+		"SublimeHg"
+	]
+}
